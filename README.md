@@ -18,7 +18,8 @@ Project Status
 Prototype 2 is no longer under active development. This repository serves as a record of the design decisions, implementation attempts, and evaluation results associated with this iteration.
 
 Prototype 2 Conclusion
-Objective
+As a result of system evaluation and testing, Prototype 2 did not meet sensing and integration requirements due to limitations in sensor selection. Further development on this iteration was halted, and the prototype was formally concluded in favor of revisiting sensing strategy and system architecture in a future iteration.
+
 
 Prototype 2 was intended to evaluate the feasibility of integrating pressure sensing into a self-tightening tourniquet system and to assess whether the selected sensing approach could provide reliable and meaningful feedback within the expected pressure range.
 
