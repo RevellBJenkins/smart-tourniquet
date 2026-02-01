@@ -16,6 +16,8 @@ The system combines a mechanical tightening mechanism with embedded pressure sen
 Project Status
 
 Prototype 2 is no longer under active development. This repository serves as a record of the design decisions, implementation attempts, and evaluation results associated with this iteration.
+Any code present reflects exploratory sensor testing conducted during Prototype 2 and is not intended to represent a complete system.
+
 
 Prototype 2 Conclusion
 As a result of system evaluation and testing, Prototype 2 did not meet sensing and integration requirements due to limitations in sensor selection. Further development on this iteration was halted, and the prototype was formally concluded in favor of revisiting sensing strategy and system architecture in a future iteration.
