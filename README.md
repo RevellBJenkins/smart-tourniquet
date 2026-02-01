@@ -38,3 +38,5 @@ As a result, Prototype 2 was formally concluded, and further development was hal
 Team
 
 This repository reflects a collaborative group effort. Individual contributions correspond to specific design, integration, and evaluation tasks completed during the Prototype 2 development period.
+
+Prototype 2 intentionally excluded mechanical tightening and focused solely on evaluating pressure sensor behavior within a designed enclosure.
