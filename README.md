@@ -25,22 +25,17 @@ The broader system concept combined a mechanical tightening mechanism with embed
 
 ### Assembled Prototype Enclosure
 
-![Assembled Prototype](images/tq_iso_full.png)![Uploading tq_iso_full.png…]()
-![Uploading tq_iso_full.png…]()
-
-
+<img width="763" height="1122" alt="tq_iso_full" src="https://github.com/user-attachments/assets/a41efbdd-80de-493b-8949-855df073695a" />
 *Prototype 2 enclosure assembly showing integrated sensor cavity and electronics housing.*
 
 ### Exploded Assembly View
 
-![Exploded Assembly](images/tq_housing_iso_full.png)
-
+<img width="1536" height="1050" alt="tq_housing_iso_full" src="https://github.com/user-attachments/assets/ed1d49b7-7e17-4e56-b02d-0077c424e47b" />
 *Exploded assembly view illustrating enclosure structure, internal electronics placement, and sensor integration layout.*
 
 ### Internal Sensor and Enclosure Layout
 
-![Internal Layout](images/tourn2.png)
-
+<img width="1148" height="838" alt="tourn2" src="https://github.com/user-attachments/assets/00e984dc-75b0-46ff-b2bd-babc598eb4fd" />
 *Internal cavity layout used for exploratory pressure sensor evaluation during Prototype 2 testing.*
 
 ## Project Status
