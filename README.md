@@ -83,3 +83,7 @@ Any included source code reflects exploratory sensor testing and early-stage int
 ## Team
 
 This repository reflects a collaborative group engineering effort. Individual contributions correspond to specific design, integration, documentation, and evaluation tasks completed during Prototype 2 development.
+
+## Archive Status
+
+Prototype 2 has been archived as a completed exploratory iteration. This repository is maintained for documentation and reference purposes only and is not expected to receive further development updates.
