@@ -21,6 +21,28 @@ Prototype 2 intentionally excluded mechanical tightening and focused specificall
 
 The broader system concept combined a mechanical tightening mechanism with embedded pressure sensing and basic control logic. User feedback was intended to indicate when applied pressure fell within an expected range, with the goal of reducing reliance on subjective user judgment during application.
 
+## Prototype Visuals
+
+### Assembled Prototype Enclosure
+
+![Assembled Prototype](images/tq_iso_full.png)![Uploading tq_iso_full.png…]()
+![Uploading tq_iso_full.png…]()
+
+
+*Prototype 2 enclosure assembly showing integrated sensor cavity and electronics housing.*
+
+### Exploded Assembly View
+
+![Exploded Assembly](images/tq_housing_iso_full.png)
+
+*Exploded assembly view illustrating enclosure structure, internal electronics placement, and sensor integration layout.*
+
+### Internal Sensor and Enclosure Layout
+
+![Internal Layout](images/tourn2.png)
+
+*Internal cavity layout used for exploratory pressure sensor evaluation during Prototype 2 testing.*
+
 ## Project Status
 
 Prototype 2 is no longer under active development. This repository serves as a record of the design decisions, implementation attempts, and evaluation results associated with this iteration.
