@@ -1,7 +1,11 @@
 Smart Self-Tightening Tourniquet — Prototype 2
 Overview
 
-This repository documents Prototype 2 of a Smart Self-Tightening Tourniquet, developed as a collaborative group engineering project during Winter Break. The project explores the feasibility of integrating pressure sensing and user feedback into a mechanical tourniquet system to improve consistency and safety during application.
+# Smart Self-Tightening Tourniquet — Prototype 2 Overview
+
+This repository documents Prototype 2 of a Smart Self-Tightening Tourniquet concept developed as a collaborative engineering project. Prototype 2 focused on evaluating pressure sensor behavior inside a designed enclosure rather than building a complete automated tightening system.
+
+The purpose of this iteration was to determine whether the selected sensing approach could provide reliable feedback for a future tourniquet control system.
 
 This prototype is a continuation of an earlier design iteration and focuses on system integration and sensor evaluation rather than final device performance.
 
