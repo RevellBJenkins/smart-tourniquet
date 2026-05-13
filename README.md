@@ -49,6 +49,20 @@ Prototype 2 highlighted several important engineering considerations for wearabl
 
 Future iterations would require a redesigned sensing strategy and additional validation under realistic loading conditions. Potential directions include alternative pressure-sensing methods, motion-based sensing, or Doppler-based approaches capable of providing more reliable physiological feedback during application.
 
+## Repository Structure
+
+/docs  
+Contains supporting project documentation, design notes, evaluation summaries, and development references related to Prototype 2.
+
+LIMITATIONS.md  
+Documents known technical, mechanical, and validation limitations identified during Prototype 2 evaluation and testing.
+
+README.md  
+Provides a high-level overview of Prototype 2, including project scope, evaluation results, lessons learned, and future direction.
+
+Code Files  
+Any included source code reflects exploratory sensor testing and early-stage integration experiments performed during Prototype 2 development. The code is not intended to represent a finalized or deployable system.
+
 ## Team
 
 This repository reflects a collaborative group engineering effort. Individual contributions correspond to specific design, integration, documentation, and evaluation tasks completed during Prototype 2 development.
