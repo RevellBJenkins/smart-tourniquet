@@ -9,40 +9,46 @@ The purpose of this iteration was to determine whether the selected sensing appr
 
 This prototype is a continuation of an earlier design iteration and focuses on system integration and sensor evaluation rather than final device performance.
 
-Project Scope
+## Project Scope
 
 This project is an educational and exploratory prototype. It is not a medical device and has not undergone clinical validation, regulatory review, or safety certification. The work presented here is intended solely for academic and engineering learning purposes.
 
-High-Level Concept
+## Prototype Focus
 
-The system combines a mechanical tightening mechanism with embedded pressure sensing and basic control logic. User feedback is provided to indicate when applied pressure falls within an intended range, with the goal of reducing reliance on subjective user judgment during application.
+Prototype 2 intentionally excluded mechanical tightening and focused specifically on evaluating pressure sensor behavior within a designed enclosure. The goal of this iteration was to determine whether the selected sensing approach could provide reliable and interpretable feedback for a future self-tightening tourniquet system.
 
-Project Status
+## High-Level Concept
+
+The broader system concept combined a mechanical tightening mechanism with embedded pressure sensing and basic control logic. User feedback was intended to indicate when applied pressure fell within an expected range, with the goal of reducing reliance on subjective user judgment during application.
+
+## Project Status
 
 Prototype 2 is no longer under active development. This repository serves as a record of the design decisions, implementation attempts, and evaluation results associated with this iteration.
-Any code present reflects exploratory sensor testing conducted during Prototype 2 and is not intended to represent a complete system.
 
+Any code present reflects exploratory sensor testing conducted during Prototype 2 and is not intended to represent a complete or deployable system.
 
-Prototype 2 Conclusion
-As a result of system evaluation and testing, Prototype 2 did not meet sensing and integration requirements due to limitations in sensor selection. Further development on this iteration was halted, and the prototype was formally concluded in favor of revisiting sensing strategy and system architecture in a future iteration.
+## Evaluation Summary
 
+Prototype 2 was intended to evaluate the feasibility of integrating pressure sensing into a self-tightening tourniquet concept. While portions of the enclosure, sensor integration, and control architecture were successfully assembled, the prototype did not meet sensing requirements during testing.
 
-Prototype 2 was intended to evaluate the feasibility of integrating pressure sensing into a self-tightening tourniquet system and to assess whether the selected sensing approach could provide reliable and meaningful feedback within the expected pressure range.
+The selected pressure sensor was not suitable for the operational range and resolution required for consistent and interpretable feedback under realistic loading conditions. As a result, sensing reliability became the primary limiting factor for the system.
 
-Outcome
+Because reliable sensing could not be achieved, higher-level control behavior and user feedback logic could not be meaningfully evaluated within this iteration.
 
-While portions of the mechanical and control architecture were successfully assembled, the prototype did not meet sensing requirements. The selected pressure sensor was not suitable for the operational range and resolution needed for consistent and interpretable feedback.
+## Lessons Learned
 
-Root Cause
+Prototype 2 highlighted several important engineering considerations for wearable medical-assistive systems:
 
-The primary limitation was incorrect sensor selection, which prevented accurate pressure measurement under realistic loading conditions. This limitation constrained the ability to evaluate higher-level control behavior and user feedback logic.
+- Sensor selection must be validated against expected operating ranges before full system integration.
+- Mechanical integration and sensing reliability must be developed together rather than independently.
+- Real-world loading conditions introduced significantly more variability than initially expected.
+- Early enclosure testing was useful for identifying sensing limitations before investing additional effort into full system automation.
+- Future iterations would likely require alternative sensing strategies rather than relying solely on static pressure sensing.
 
-Decision
+## Future Direction
 
-As a result, Prototype 2 was formally concluded, and further development was halted in favor of revisiting sensing strategy and system architecture in a future iteration.
+Future iterations would require a redesigned sensing strategy and additional validation under realistic loading conditions. Potential directions include alternative pressure-sensing methods, motion-based sensing, or Doppler-based approaches capable of providing more reliable physiological feedback during application.
 
-Team
+## Team
 
-This repository reflects a collaborative group effort. Individual contributions correspond to specific design, integration, and evaluation tasks completed during the Prototype 2 development period.
-
-Prototype 2 intentionally excluded mechanical tightening and focused solely on evaluating pressure sensor behavior within a designed enclosure.
+This repository reflects a collaborative group engineering effort. Individual contributions correspond to specific design, integration, documentation, and evaluation tasks completed during Prototype 2 development.
